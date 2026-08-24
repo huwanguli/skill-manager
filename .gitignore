@@ -1,0 +1,18 @@
+# AI tool local configs (personal, not part of the skill)
+.agents/
+.claude/
+
+# Skill install lock file (personal)
+skills-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
